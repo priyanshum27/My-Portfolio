@@ -3,7 +3,7 @@
 Welcome to my personal portfolio project!  
 Built with **React**, **TypeScript**, **Tailwind CSS**, and **Mantine UI**, this site showcases my projects, skills, and journey as a developer.  
 
-🌐 **Live Site:** [my-portfolio-teqw.onrender.com](https://shreyas-jaiswal-portfolio.onrender.com/)
+🌐 **Live Site:** [my-portfolio-teqw.onrender.com](https://my-portfolio-1-heo5.onrender.com/)
 
 ---
 
@@ -27,6 +27,6 @@ Built with **React**, **TypeScript**, **Tailwind CSS**, and **Mantine UI**, this
 
 ## 📬 Contact
 If you'd like to connect or collaborate:  
-📧 **Email:** shreyasjaiswal1515@gmail.com
-💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/shreyas-jaiswal1508)
+📧 **Email:** mishrapriyanshu191@gmail.com
+💼 **LinkedIn:** [Your LinkedIn](http://www.linkedin.com/in/priyanshu-mishra-49b6b6248)
 

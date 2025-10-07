@@ -20,7 +20,7 @@ const ProjectInfo = [
 
         technologies: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "Socket.io", "WebRTC"],
         link: "",
-        github: ""
+        github: "https://github.com/priyanshum27/Dev-Tinder-UI"
     },
    
    {
@@ -29,6 +29,8 @@ const ProjectInfo = [
         image: pizzastore,
         live:false,
         technologies:["HTML","CSS","React"],
+        link: "",
+        github:"https://github.com/priyanshum27/Pizza-store"
 
     },
      {
@@ -37,8 +39,8 @@ const ProjectInfo = [
         image: SortingImg, 
         live: false,
         technologies: ["HTML", "CSS", "JavaScript"],
-        link: "",
-        github: ""
+        link: "https://sorting-visualizer-wb0d.onrender.com/",
+        github: "https://github.com/priyanshum27/Sorting-visualizer"
     },
    
 ];
